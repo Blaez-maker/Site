@@ -1,0 +1,28 @@
+
+p {
+	font-family: Parry Hotter;
+	font-size: 16px;
+	color: red;
+}
+
+.quote {
+	font-size 19px;
+	font-weight: bold;
+}
+
+#rollround{
+	background:green;
+}
+
+#speedsound{;
+	background-color: orange;
+}
+
+.box {
+	height: 100px;
+	width: 100px;
+	float: left;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
